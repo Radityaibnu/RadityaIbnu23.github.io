@@ -1,0 +1,228 @@
+*{
+    font-family: sans-serif;
+   }
+   html{
+    scroll-behavior: smooth;
+   }
+   body{
+       padding: 0;
+       margin: 0;
+   }
+   
+   .container nav ul{
+       display: flex;
+       margin-left: 20px;
+   }
+   
+   .container nav ul li{
+
+       list-style: none;
+   }
+   
+   .container nav ul li a{
+       color: black;
+       text-decoration: none;
+       margin-right: 10px;
+   }
+   
+   .container nav ul li a:hover{
+       text-decoration: underline;
+   }
+   .container .kanan ul{
+       float: right;
+       margin-top: -30px;
+       
+   }
+   
+   .container .kanan ul li img{
+       margin-top: -8px;
+       margin-right: 10px;
+   }
+   .container .kanan ul li img {
+    padding-right:20px;
+    margin-right: 20px;
+   }
+
+   .gambar1{
+       justify-content: space-around;
+       display: flex;
+   }    
+   
+   .gambar1 h1{
+       color: white;
+   }
+
+   .kata{
+    margin-bottom: -450px;
+    position: relative;
+    position: absolute;
+    padding-top:90px;
+    padding-left: 90px;
+    word-spacing: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+   .content img{
+       width: 100%;
+   }
+   .hah{
+      padding-top:300px;
+      position: relative;
+      position: absolute;
+      padding-left: 150px;
+   }
+a{
+    color: #0067b8;
+    text-decoration: none;
+    
+}
+   a:hover{
+    text-decoration: underline;
+}
+
+.imgmicro{
+    padding-left: 480px;
+}
+.micro365{
+    padding-left:410px;
+    padding-top:10px;
+}
+.imgmicro1{
+    padding-left:710px;
+    margin-top: -82px;
+    
+}
+.micro3652{
+    padding-left:650px;
+    padding-top: 10px;
+}
+.gamepass{
+    padding-left: 960px;
+    margin-top: -82px;
+}
+.gamepasstext{
+    padding-left:860px;
+    padding-top: 20px;
+}
+button{
+    color: white;
+    background-color: #0067b8;
+    width:120px;
+    height:40px;
+    text-decoration: none;
+}
+.onenotetxt{
+    list-style: none;
+}
+.onenoteimg{
+    padding-left:70px;
+}
+.onenotetxt{
+    padding-left: 70px;
+    margin-bottom:100px;
+}
+.dirancangimg{
+    padding-left:420px;
+    margin-top: -430px;
+}
+.dirancangtxt{
+    padding-left: 420px;
+    list-style: none;
+}
+.edgeimg{
+    padding-left: 790px;
+    margin-top: -460px;
+}
+.edgetxt{
+    padding-left: 790px;
+    list-style: none;
+}
+.onedriveimg{
+    padding-left: 1130px;
+    margin-top: -365px;
+}
+.onedrivetxt{
+    padding-left: 1130px;
+    list-style: none;
+}
+
+.outlookimg{
+   padding-left: 80px;
+   padding-right:80px;
+}
+.outlooktxt{
+  margin-top:-340px;
+  padding-left: 200px;
+  font-family: Arial, Helvetica, sans-serif;
+  list-style: none;
+  padding-bottom: 100px;
+}
+.forbusiness{
+    padding-left: 75px;
+}
+.coba365img{
+    padding-left: 75px;
+}
+.coba365txt{
+    list-style: none;
+    padding-left: 75px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.aiimg{
+    padding-left:440px;
+    margin-top: -445px;
+}
+.aitext{
+    padding-left: 440px;
+    list-style: none;
+}
+.cloud365img{
+    padding-left: 800px;
+    margin-top: -390px;
+
+}
+.cloud365txt{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 800px;
+    list-style: none;
+}
+.vsimg{
+    padding-left: 1150px;
+    margin-top: -445px;
+    
+}
+.vstxt{
+    font-family: Arial, Helvetica, sans-serif;
+    list-style: none;
+    padding-left: 1150px;
+}
+
+.goontop{
+    margin-top: 200px;
+    float: right;
+    cursor: pointer;
+}
+.footer{
+    color:#616161;
+    background-color: #d9d7d7;
+    padding-left: 220px;
+}
+ul{
+    list-style: none;
+    padding:20px;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.footer ul li{
+    margin-bottom: 10px;
+}
+.footer ul li a{
+    color: #807373;
+    font-size:12px;
+}
+h4{
+    padding-left: 20px;
+}
